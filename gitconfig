@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = barois.anne@orange.fr
+	name = Anne Barois
